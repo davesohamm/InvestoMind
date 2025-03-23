@@ -1,7 +1,9 @@
 # InvestoMind - AI-Powered Investor Dashboard
 
+## 🌍 Live Demo
+[InvestoMind](https://investo-mind.vercel.app/)
+
 InvestoMind is an AI-driven investment dashboard designed for retail investors to track portfolios, analyze market trends, and receive personalized financial insights.
-URL : (Click for the Demo!)[https://investo-mind.vercel.app/]
 
 ## 🚀 Features
 - **AI Investment Advisor** – Get real-time stock analysis and market insights powered by Google Gemini.
